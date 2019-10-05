@@ -1,0 +1,44 @@
+.content{
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color:rgb(241, 239, 237);
+    padding: 20px;
+    width: 100%; 
+}
+
+ #display{
+    width: 100%;
+
+ }
+ 
+.navbar-light {
+    color: black;
+    display: table;
+    padding-top: .3125rem;
+    padding-bottom: .3125rem;
+    margin-right: 1rem;
+    font-size: 2.4rem;
+    line-height: inherit;
+    white-space: nowrap;
+    box-sizing: border-box;
+    text-align: center;
+}
+
+
+element.style {
+    -webkit-user-select: none;
+    margin: auto;
+    cursor: zoom-in;
+}
+
+img title {
+    width: 375px;
+    height: 225px;
+
+
+}
+
+button {
+    color: white;
+    background-color: red;
+}
